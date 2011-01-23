@@ -1,0 +1,5 @@
+builder   --source=http://gemcutter.org
+rdiscount --source=http://gemcutter.org
+toto      --source=http://gemcutter.org
+rack-rewrite --source=http://gemcutter.org --version=0.2.1
+

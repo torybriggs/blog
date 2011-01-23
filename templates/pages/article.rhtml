@@ -1,0 +1,34 @@
+<article class="post">
+  <header>
+    <h1><% if article[:category] == 'article' %>
+					<%= article.title %>
+				<% else %>
+					<a href="<%= article.link %>"><%= article.title %></a>
+				<% end %>
+		</h1>
+		<span class="meta"><%= article.date %></span>
+		<% if article[:category] == 'link' %>
+			<% if article[:link].to_s.length > 45 %>
+			<span class="meta link"><a href="<%= article[:link] || '' %>">
+					<%= article[:link].to_s[0..45] + '...' || '' %></a></span>
+			<% else %>
+					<span class="meta link"><a href="<%= article[:link] || '' %>">
+							<%= article[:link] || '' %></a></span>
+			<% end %>
+		<% end %>
+  </header>
+
+  <section class="content">
+    <%= body %>
+  </section>
+
+  <section class="comments">
+    <% if @config[:disqus] %>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript" src="http://disqus.com/forums/<%= @config[:disqus] %>/embed.js"> </script>
+      <noscript><a href="http://<%= @config[:disqus] %>.disqus.com/?url=ref">View the discussion thread.</a></noscript>
+      <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+    <% end %>
+  </section>
+</article>
+
