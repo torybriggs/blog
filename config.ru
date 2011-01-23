@@ -36,8 +36,8 @@ gem 'rack-rewrite', '~> 0.2.1'
 require 'rack-rewrite'
 if ENV['RACK_ENV'] == 'production'
     use Rack::Rewrite do
-        r301 %r{.*}, 'http://familyhoney.com$&', :if => Proc.new {|rack_env|
-        rack_env['SERVER_NAME'] != 'familyhoney.com'
+        r301 %r{.*}, 'http://torybriggs.com$&', :if => Proc.new {|rack_env|
+        rack_env['SERVER_NAME'] != 'torybriggs.com'
     }
     end
 end
