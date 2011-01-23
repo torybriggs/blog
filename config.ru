@@ -19,7 +19,7 @@ toto = Toto::Server.new do
   # 
     set :author,    "Tory Briggs"                             # blog author
     set :title,     "torybriggs.com"			                    # site title
-  # set :root,      "index"                                   # page to load on /
+    set :root,      "index"                                   # page to load on /
   # set :date,      lambda {|now| now.strftime("%d/%m/%Y") }  # date format for articles
   # set :markdown,  :smart                                    # use markdown + smart-mode
   # set :disqus,    false                                     # disqus id, or false
