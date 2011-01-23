@@ -12,7 +12,6 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
       xml.id article.url
       xml.published article[:date].iso8601
       xml.updated article[:date].iso8601
-      xml.guid article.url
       xml.author { xml.name @config[:author] }
       xml.summary article.summary, "type" => "html"
       xml.content article.body, "type" => "html"
