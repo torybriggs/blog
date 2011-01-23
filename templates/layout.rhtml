@@ -3,6 +3,8 @@
   <head>
     <link rel="stylesheet" type="text/css" href="/css/main.css">
     <link rel="alternate" type="application/atom+xml" title="<%= title %> - feed" href="/index.xml" />
+		<link rel="alternate" type="application/rss+xml" 
+		title="torybriggs" href="http://feeds.feedburner.com/torybriggs" />
 		<link rel="shortcut icon" type="image/x-icon" href="/images/favicon.ico">
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.4/jquery.min.js"></script>
 		<script src="js/footnote.js"></script>
@@ -42,6 +44,9 @@
 					</li>
 					<li <%= ' class="active"' if @path == 'contact' %>>
 						<a href="/contact">Contact</a>
+					</li>
+					<li>
+						<a href="http://feeds.feedburner.com/torybriggs">Subscribe</a>
 					</li>
 				</ul>
 			</nav>
