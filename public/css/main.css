@@ -120,6 +120,7 @@ body > #wrapper > header {
 #beta {
 	float: right;
 	padding-right: 200px;
+	border: none;
 }
 body > #wrapper > header > h1 a {
   width: 310px;
