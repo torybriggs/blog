@@ -3,7 +3,6 @@
 		light foreground: #f2f2f2
 	*/
 		
-
 @font-face {
 	font-family: 'NobileRegular';
 	src: url('nobile-webfont.eot');
@@ -14,7 +13,7 @@
 
 html { margin: 20px }
 body {
-	background: #E5DEA5 url('../images/bg.jpg') repeat;
+	background: #7b7869 url('../images/bg.jpg') repeat;
 }
 #wrapper {
 	margin: 0 auto;
