@@ -13,7 +13,7 @@
 
 html { margin: 20px }
 body {
-	background: #7b7869 url('../images/bg.jpg') repeat;
+	background-color: #7b7869;
 }
 #wrapper {
 	margin: 0 auto;
