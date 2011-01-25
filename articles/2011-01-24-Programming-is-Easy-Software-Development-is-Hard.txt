@@ -1,5 +1,5 @@
 --- 
-title: Programming is Easy, Software Development is Hard.txt
+title: Programming is Easy, Software Development is Hard
 category: link
 link: http://www.thoughtclusters.com/2011/01/programming-is-"
 date: 24/01/2011
