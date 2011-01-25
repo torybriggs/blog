@@ -13,4 +13,4 @@ Evernote more than [doubled](http://blog.evernote.com/2011/01/07/mac-app-store-m
 
 >It isn't mobile that's overwhelmingly important, it's the app store.
 
-UPDATE: I received a [response](https://twitter.com/derrickbowen/status/29712518133846016) about including apt-get in this discussion. I [responded](https://twitter.com/amazonmp3/status/29713202635874304) that if we follow the analogy apt-get brick-and-mortar equivalent of the Goodwill. But that's not entirely accurate, since apt-get is free and Goodwill sells their wares. Maybe apt-get is like the "giveaways" on Craigslist. There are a few gems amongst the junk, but you're on your own and you may have to fix the stuff yourself.
+UPDATE: I received a [response](https://twitter.com/derrickbowen/status/29712518133846016) about including apt-get in this discussion. I [responded](https://twitter.com/amazonmp3/status/29713202635874304) that if we follow the analogy apt-get would be the brick-and-mortar equivalent of the Goodwill. There are a few gems amongst the junk, but you're on your own and you may have to fix the stuff yourself.
