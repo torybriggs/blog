@@ -1,0 +1,11 @@
+--- 
+title: iOS Fonts
+category: link
+link: http://iosfonts.com
+date: 25/01/2011
+timestamp: 2011-01-25 07:50:02.499837 -07:00
+
+Apple has [always](http://en.wikipedia.org/wiki/Typography_of_Apple_Inc.) been keen on typography, and their iOS platform is no different.  iOS devices have 19 times more fonts installed than their Android counterparts.
+
+(via [thomasfuchs](https://twitter.com/visualrinse/status/29890715177721856))
+
