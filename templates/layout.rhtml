@@ -13,11 +13,11 @@
 		<meta name="description" content="<%= @context[:description] || 'A blog by Tory Briggs about the arts, technology, programming, gaming and entertainment.' %>">
     <title>
 		<% if @path == 'index' %>
-		    torybriggs.com
+		    torybriggs.com by Tory Briggs
 		<% elsif @path.split('/').compact.length == 4 %>
-		    <%= title %> - torybriggs.com
+		    <%= title %> - torybriggs.com by Tory Briggs
 		<% else %>
-		    <%= @path.capitalize.gsub(/[-]/, ' ') %> - torybriggs.com
+		    <%= @path.capitalize.gsub(/[-]/, ' ') %> - torybriggs.com by Tory Briggs
 		<% end %>
 		</title>
   </head>
