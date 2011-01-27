@@ -1,11 +1,16 @@
 <h1><%= @path.capitalize %></h1>
-<ul>
-  <% if archives.length > 0 %>
-    <% for entry in archives %>
-      <li>
-        <a href="<%= entry.path %>"><%= entry.title %></a>
-      </li>
-    <% end %>
-  <% end %>
-</ul>
+<% years = [] %>
+<% @articles.select.each {|a| years.push(a[:date].year)} %>
+<% years.uniq!.each do |year| %>
+  <div class="archive-section">
+    <h3><%= year %></h3>
+  	<ul>
+    	<% @articles.select {|a| a[:date].year == year && a[:date] <= Date.today}.each do |article| %>
+    	  <li>
+  				<a href="<%= article.path %>"><%= article.title %></a> <span class="date">(<%= article.date %>)</span>
+  			</li>
+    	<% end %>
+  	</ul>
+  </div>
+<% end %>
 

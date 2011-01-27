@@ -185,11 +185,11 @@ ul, li {
   list-style-type: none;
 }
 ::selection {
-	background-color: #D51920;
+	background-color: #0E1232;
 	color: #fff;
 }
 ::-moz-selection {
-	background-color: #D51920;
+	background-color: #0E1232;
 	color: #fff;
 }
 code {
@@ -227,6 +227,7 @@ footer {
   font-family: 'Baskerville', Georgia, Times, serif;
 }
 
+.archive-section												{margin-top: 30px;}
 .archive-section h3                     { margin-top: 0px; position: absolute; }
 .archive-section ul                     { border-left: 2px solid #bbb; list-style: none; margin-bottom: 20px; margin-left: 55px; padding-left: 15px; }
 .archive-section li                     { margin-bottom: 2px }
