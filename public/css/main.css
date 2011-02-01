@@ -224,6 +224,9 @@ footer {
   color: #888;
   font-family: 'Baskerville', Georgia, Times, serif;
 }
+#rdbWrapper {
+	float: right;
+}
 
 .archive-section												{margin-top: 30px;}
 .archive-section h3                     { margin-top: 0px; position: absolute; }

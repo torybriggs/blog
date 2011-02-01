@@ -1,6 +1,6 @@
 <article class="post">
   <header>
-    <h1><% if article[:category] == 'article' %>
+    <h1 class"entry-title"><% if article[:category] == 'article' %>
 					<%= article.title %>
 				<% else %>
 					<a href="<%= article.link %>"><%= article.title %></a>
@@ -21,6 +21,17 @@
   <section class="content">
     <%= body %>
   </section>
+	
+	<div id='rdbWrapper'></div><script type='text/javascript'>
+	(function() {
+	    var s     = document.getElementsByTagName('script')[0],
+	        rdb   = document.createElement('script');
+	    rdb.type  = 'text/javascript';
+	    rdb.async = true;
+	    rdb.src   = document.location.protocol + '//www.readability.com/embed.js';
+	    s.parentNode.insertBefore(rdb, s);
+	})();
+	</script>
 
   <section class="comments">
     <% if @config[:disqus] %>
