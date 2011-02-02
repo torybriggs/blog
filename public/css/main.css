@@ -203,9 +203,9 @@ blockquote {
 	border-left: 1px dashed grey;
 	padding-left: 10px;
 }
-ol {
+ol, ol li {
 	list-style: decimal;
-	margin: 0px 0px 0px 30px;
+	margin: 0px 0px 0px 10px;
 }
 ol.footnotes {
 	border-top: 1px dashed #d1d1d1;
