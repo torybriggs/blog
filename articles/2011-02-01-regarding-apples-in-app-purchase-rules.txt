@@ -5,7 +5,7 @@ link:
 date: 01/02/2011
 timestamp: 2011-02-01 21:36:18.512985 -07:00
 
-There has been much hoo-hawing about the [rejection](http://rdd.me/g9qjjeew) of Sony's e-book app. But is it all warranted? The rejection may have stemmed from any number of things that Apple hasn't publicly commented on. The only official statement regarding the matter comes courtesy of Trudy Muller:
+There has been much hoo-hawing about the [rejection](http://www.nytimes.com/2011/02/02/technology/02apple.html) of Sony's e-book app. But is it all warranted? The rejection may have stemmed from any number of things that Apple hasn't publicly commented on. The only official statement regarding the matter comes courtesy of Trudy Muller:
 
 >We have not changed our developer terms or guidelines. We are now requiring that if an app offers customers the ability to purchase books outside of the app, that the same option is also available to customers from within the app with in-app purchase.
 
