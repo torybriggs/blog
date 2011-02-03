@@ -12,6 +12,7 @@
 					</h1>
 					<% if article[:category] == 'article' %>
 					<span class="meta"><%= article.date %></span>
+					<span class="meta"><%= article[:body].split(/\S+/).size.to_i - 1 %> words</span>
 					<% else %>
 						<% if article[:category] == 'link' %>
 							<% if article[:link].to_s.length > 45 %>
@@ -21,7 +22,6 @@
 							<% end %>
 						<% end %>
 					<% end %>
-					<span class="meta"><%= article[:body].split(/\S+/).size.to_i - 1 %> words</span>
 	      </header>
 
 	      <section class="content">
