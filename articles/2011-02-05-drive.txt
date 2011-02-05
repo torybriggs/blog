@@ -1,0 +1,9 @@
+--- 
+title: Drive
+category: link
+link: http://thisdeveloperslife.com/post/1-1-2-drive
+date: 05/02/2011
+timestamp: 2011-02-05 16:13:02.964936 -07:00
+
+An excellent episode of "This Developer's Life." I especially like the interview with [Tom Preston-Werner](http://tom.preston-werner.com/) about founding [GitHub](http://github.com/) and giving up a $300,000 deal from Microsoft.
+
