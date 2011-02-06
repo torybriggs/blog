@@ -16,7 +16,7 @@
 							<%= article[:link] || '' %></a></span>
 			<% end %>
 		<% end %>
-		
+		<% if article[:category] == 'article' %>
 		<div id='rdbWrapper'></div><script type='text/javascript'>
 		(function() {
 		    var s     = document.getElementsByTagName('script')[0],
@@ -27,6 +27,7 @@
 		    s.parentNode.insertBefore(rdb, s);
 		})();
 		</script>
+		<% end %>
 		
   </header>
 
