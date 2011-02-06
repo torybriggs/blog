@@ -225,7 +225,8 @@ footer {
   font-family: 'Baskerville', Georgia, Times, serif;
 }
 #rdbWrapper {
-	float: right;
+	float: left;
+	margin-top: 10px;
 }
 
 .archive-section												{margin-top: 30px;}
