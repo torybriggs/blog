@@ -115,7 +115,7 @@ body > #wrapper > header {
 	padding-right: 100px;
 	border: none;
 }
-body > #wrapper > header > h1 a {
+body > #wrapper > header > h1 {
   width: 310px;
 	height: 66px;
 	display: block;
@@ -123,8 +123,14 @@ body > #wrapper > header > h1 a {
 	outline: none;
 	border: 0;
 	font-size: 36px;
-	line-height: 36px;
+	line-height: 28px;
 	font-family: 'Raleway', Helvetica, arial, sans serif;
+}
+body > #wrapper > header > h1 a {
+	color: #7B7869;
+}
+body > #wrapper > header > h1 span {
+	font-size: 24px;
 }
 body > #wrapper > header > p {
 	float: left;
