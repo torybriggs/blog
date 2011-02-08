@@ -79,11 +79,12 @@ a {
 h1 {
   font-family: 'Nobile', Helvetica, arial, sans serif;
 	color: #333;
-	line-height: 1.3em;
+	line-height: 1.5em;
 	font-size: 1.3em;
 }
 h1 a {
 	color: #333;
+	border: none;
 }
 h1.article {
 	font-size: 1.5em;
