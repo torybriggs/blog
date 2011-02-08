@@ -119,11 +119,12 @@ body > #wrapper > header > h1 a {
   width: 310px;
 	height: 66px;
 	display: block;
-	background: url("../images/logo.png");
-	text-indent: -9999px;
 	text-decoration: none;
 	outline: none;
 	border: 0;
+	font-size: 36px;
+	line-height: 36px;
+	font-family: 'Raleway', Helvetica, arial, sans serif;
 }
 body > #wrapper > header > p {
 	float: left;
@@ -194,7 +195,7 @@ ul, li {
 	color: #fff;
 }
 code {
-  font-family: 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
+  font-family: 'Inconsolata', 'Anonymous Pro', 'Bitstream Vera Sans', 'Monaco', Courier, mono;
 }
 pre {
   padding: 20px;
