@@ -1,0 +1,9 @@
+--- 
+title: Sparrow
+category: link
+link: http://itunes.apple.com/us/app/sparrow/id417250177?mt=12
+date: 09/02/2011
+timestamp: 2011-02-09 09:11:55.265612 -07:00
+
+This has been my go to GMail client the last few months and now it's available on the Mac App Store.
+
