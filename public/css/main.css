@@ -228,6 +228,7 @@ footer {
   margin: 100px 0 0 10px;
   color: #888;
   font-family: 'Baskerville', Georgia, Times, serif;
+	width: 550px;
 }
 #rdbWrapper {
 	float: left;
