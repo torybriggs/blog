@@ -17,7 +17,7 @@ body {
   padding: 50px 50px 50px 150px;
   width: 700px;
 	margin: 0 auto;
-	background: #EEE url('../images/wrapper-bg.jpg') repeat;
+	background: #EEE url('http://torybriggs.appspot.com/images/wrapper-bg.jpg') repeat;
 	color: #333;
 }
 .clear {
@@ -145,7 +145,7 @@ nav ul li {
 	display: inline;
 }
 hr {
-	background: #eee url('../images/line-rule.png') no-repeat bottom;
+	background: #eee url('http://torybriggs.appspot.com/images/line-rule.png') no-repeat bottom;
 	background-position: 0px 100%;
 	margin: 8px 0 8px 0;
 	height: 6px;
