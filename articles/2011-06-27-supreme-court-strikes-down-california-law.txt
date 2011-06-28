@@ -1,0 +1,12 @@
+--- 
+title: Supreme Court Strikes Down California Law
+category: link
+link: http://www.giantbomb.com/news/supreme-court-strikes-down-california-law/3425/
+date: 27/06/2011
+timestamp: 2011-06-27 19:57:03.814040 -06:00
+
+In a 7-2 decision, the U.S. Supreme Court decided to defend the Constitutional rights of games. Court Justice Scalia wrote the opinion:
+>Video games qualify for First Amendment protection. Like protected books, plays, and movies, they communicate ideas through familiar literary devices and features distinctive to the medium. And the basic principles of freedom of speech...do not vary with a new and different communication medium.
+
+As a rare show of , Justices Ginsburg, Sotomayor, and Kagan agreed with Scalia.
+
