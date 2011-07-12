@@ -41,6 +41,9 @@ if ENV['RACK_ENV'] == 'production'
     }
     end
 end
+use Rack::Rewrite do
+    r301 '/+', 'https://plus.google.com/107287178671881421592/posts'
+  end
 
 run toto
 
