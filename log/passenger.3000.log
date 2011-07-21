@@ -1,0 +1,4 @@
+Cannot execute '/Users/torybriggs/.passenger/standalone/3.0.7-x86_64-ruby1.9.2-macosx-10.6/support/helper-scripts/prespawn http://0.0.0.0:3000': Permission denied (13)
+127.0.0.1 - - [14/Jul/2011 10:25:16] "GET / " 200 34981 0.7773
+127.0.0.1 - - [14/Jul/2011 10:25:32] "GET / " 200 34981 0.0684
+127.0.0.1 - - [14/Jul/2011 10:25:33] "GET / " 200 34981 0.0736
