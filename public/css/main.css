@@ -18,7 +18,7 @@ body {
   width: 700px;
 	margin: 0 auto;
 	background: #EEE url('/images/wrapper-bg.jpg') repeat;
-	color: #333;
+	color: black;
 }
 .clear {
 	clear: both;
