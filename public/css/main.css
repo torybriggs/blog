@@ -6,13 +6,13 @@
 html { margin: 20px }
 body {
 	background-color: #7b7869;
-	font-family: "Optima", Baskerville, Times, "Times New Roman", serif;
+	font-family: Baskerville, Times, "Times New Roman", serif;
 }
 #wrapper {
 	margin: 0 auto;
 	-webkit-box-shadow: #292621 3px 3px 3px;
 	-moz-box-shadow: #292621 3px 3px 3px;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 23px;
   padding: 50px 50px 50px 150px;
   width: 700px;
@@ -202,9 +202,10 @@ pre {
   padding: 20px;
 }
 blockquote {
-  font-style: italic;
 	border-left: 1px dashed grey;
 	padding-left: 10px;
+	color: #454239;
+	
 }
 ol, ol li {
 	list-style: decimal;
