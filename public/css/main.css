@@ -6,7 +6,7 @@
 html { margin: 20px }
 body {
 	background-color: #7b7869;
-	font-family: Baskerville, Times, "Times New Roman", serif;
+	font-weight: lighter;
 }
 #wrapper {
 	margin: 0 auto;
@@ -78,7 +78,7 @@ a {
 h1 {
 	color: #333;
 	line-height: 1.5em;
-	font-size: 20px;
+	font-size: 22px;
 }
 h1 a {
 	color: #333;
@@ -168,6 +168,8 @@ hr {
 }
 .post p {
   margin: 10px 0;
+  font-family: helvetica neue, helvetica, sans-serif;
+  line-height: 30px;
 }
 .post .more {
   margin: 10px 30px 10px 0;
@@ -182,7 +184,7 @@ hr {
 .more a:hover { text-decoration: none; }
 h1, h2, h3, h4 {
   margin: 0;
-  font-weight: 600;
+  font-family: 'Yanone Kaffeesatz', helvetica neue, helvetica, sans-serif;
 }
 ul, li {
   list-style-type: none;
@@ -220,6 +222,14 @@ ol.footnotes {
 }
 ol.footnotes li {
 	list-style-type: decimal;
+}
+#archives {
+	padding: 10px 0px;
+	background: #7B7869;
+	text-align: center;
+}
+#archives a {
+	color: white;
 }
 footer {
 	height: 4em;
