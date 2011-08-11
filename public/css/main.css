@@ -3,15 +3,12 @@
 		light foreground: #f2f2f2
 	*/
 		
-html { margin: 20px }
 body {
-	background-color: #7b7869;
+	background: #EEE url('/images/wrapper-bg.jpg') repeat;
 	font-weight: lighter;
 }
 #wrapper {
 	margin: 0 auto;
-	-webkit-box-shadow: #292621 3px 3px 3px;
-	-moz-box-shadow: #292621 3px 3px 3px;
   font-size: 16px;
   line-height: 23px;
   padding: 50px 50px 50px 150px;
