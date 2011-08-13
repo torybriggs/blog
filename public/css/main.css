@@ -29,7 +29,7 @@ body {
 	text-decoration: none;
   color: #0E1232;
 	border: 0;
-	text-shadow: 0px 0px 3px #0E1232;
+	text-shadow: 0px 0px 3px #D53245;
 }
 header, footer, section, article {
 	display: block;
@@ -87,12 +87,12 @@ h1 a {
 h1.article {
 	font-size: 1.5em;
 	font-weight: bold;
-	color: #900;
+	color: #D53245;
 }
 a:hover {
   text-decoration: none;
 	border: 0;
-	text-shadow: 0px 0px 2px #0E1232;
+	text-shadow: 0px 0px 2px #D53245;
 }
 .more a:hover {
 	color: #0E1232;
