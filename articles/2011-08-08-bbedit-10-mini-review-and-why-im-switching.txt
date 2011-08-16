@@ -15,7 +15,7 @@ BBedit also makes general purpose writing (such as this post) much easier. There
 
 In short, the transition to BBedit is going very well. There is a lot of muscle memory issues to overcome during the transition from one editor to another, but I promise you, you'll feel better at night knowing BBedit has a proven track record for providing updates and support for its application. As the landscape of the Mac continues to change I'll know for certain that the text editor I have chosen to put so much time mastering will be there every step of the way. Heck, BBedit 10 has full-screen Lion support right out of the gate. For those of you still using TextMate, unless a miracle happens your days are numbered. There have been no signs of TextMate 2.0 and I seriously doubt it will ever come to fruition.
 
-Some resources (provided by the [BBedit Twitter account](https://twitter.com/#!/bbedit "BBedit on Twitter") that helped me make the transition:
+Some resources (provided by the [BBedit Twitter account](https://twitter.com/#!/bbedit "BBedit on Twitter")) that helped me make the transition:
 
 - [http://www.bbeditextras.org/wiki/](http://www.bbeditextras.org/wiki/ "BBedit Extras")
 - [http://daringfireball.net/projects/bbcolors/](http://daringfireball.net/projects/bbcolors/ "BBcolors")
