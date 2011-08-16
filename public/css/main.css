@@ -167,7 +167,7 @@ hr {
 .post:last-child {
   margin-bottom: 10px;
 }
-.post p {
+.post p, #main p {
   margin: 10px 0;
   font-family: helvetica neue, helvetica, sans-serif;
   line-height: 30px;
