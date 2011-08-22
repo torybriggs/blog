@@ -5,5 +5,5 @@ link: http://5by5.tv/
 date: 22/08/2011
 timestamp: 2011-08-22 14:57:09.719487 -06:00
 
-If you haven't sampled some of the podcasts of Dan Benjamin's 5by5 network, you owe it to yourself to try a few. While you're there, right-click and view the HTML source and treat yourself to some nice ASCII art.
+If you haven't sampled some of the podcasts in [Dan Benjamin's](http://hivelogic.com "Hivelogic") 5by5 network, you owe it to yourself to try a few. While you're there, view the HTML source and treat yourself to some nice ASCII art.
 
