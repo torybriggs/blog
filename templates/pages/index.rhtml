@@ -16,7 +16,6 @@
 					<% else %>
 						<% if article[:category] == 'link' %>
 							<% if article[:link].to_s.length > 45 %>
-						  <span class="meta"><%= article.date %></span>
 							<span class="meta link"><a href="<%= article[:link] || '' %>" title="<%= article[:title] %>"><%= article[:link].to_s[0..45] + '...' || '' %></a></span>
 							<% else %>
 									<span class="meta link"><a href="<%= article[:link] || '' %>" title="<%= article[:title] %>"><%= article[:link] || '' %></a></span>
@@ -29,7 +28,7 @@
 	        <%= article.body %>
 	      </section>
 
-	      <div class="more"><a href="http://twitter.com/?status='<%= article.title %>' - http://torybriggs.com<%= article.path %> by @torybriggs" title="Tweet <%= article.title %>">tweet</a> | <a class="permalink" href="<%= article.path %>" rel="bookmark" title="Permalink for <%= article.title %>">&infin;</a></div>
+	      <div class="more"><a href="http://twitter.com/?status='<%= article.title %>' - http://torybriggs.com<%= article.path %> by @torybriggs" title="Tweet <%= article.title %>">tweet</a> | <a class="permalink" href="<%= article.path %>" rel="bookmark" title="Permalink for <%= article.title %>"> &infin;</a></div>
 
 	    </article>
 		<% end %>
