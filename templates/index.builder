@@ -4,7 +4,7 @@ xml.feed "xmlns" => "http://www.w3.org/2005/Atom" do
   xml.id @config[:url]
   xml.updated articles.first[:date].iso8601 unless articles.empty?
   xml.author { xml.name @config[:author] }
-  xml.icon ["http://torybriggs.com/images/favicon.ico"]
+  xml.icon ["http://torybriggs.com/favicon.ico"]
 
   articles.select.sort_by {|a| a[:timestamp]}.reverse[0..20].each do |article|
     xml.entry do
