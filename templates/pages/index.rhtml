@@ -15,6 +15,7 @@
 					<span class="meta"><%= article[:body].split(/\S+/).size.to_i - 1 %> words</span>
 					<% else %>
 						<% if article[:category] == 'link' %>
+						<span class="meta"><%= article.timestamp.strftime("%A %B %d, %I:%S %p") %></span>
 							<% if article[:link].to_s.length > 45 %>
 							<span class="meta link"><a href="<%= article[:link] || '' %>" title="<%= article[:title] %>"><%= article[:link].to_s[0..45] + '...' || '' %></a></span>
 							<% else %>
