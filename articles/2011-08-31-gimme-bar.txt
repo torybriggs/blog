@@ -5,5 +5,5 @@ link: https://gimmebar.com/
 date: 31/08/2011
 timestamp: 2011-08-31 07:56:11.392915 -06:00
 
-Yesterday Gimme Bar was released to the public. I've been in the beta for a little awhile and have been impressed with the speed and the polish of the service. I have found it pretty good for taking quick screenshots and saving images, but it has been difficult trying to work it into my daily routine of collecting bookmarks and archiving information (I use [Pinboard](http://pinboard.in) for this). The "Discovery" stream has the potential to replace [mlkshk](http://mlkshk.com/) as a source of inspiration and laughs, but only time will tell.
+Yesterday Gimme Bar was released to the public. I've been in the beta for a little while and have been impressed with the speed and the polish of the service. I have found it pretty good for taking quick screenshots and saving images, but it has been difficult trying to work it into my daily routine of collecting bookmarks and archiving information (I use [Pinboard](http://pinboard.in) for this). The "Discovery" stream has the potential to replace [mlkshk](http://mlkshk.com/) as a source of inspiration and laughs, but only time will tell.
 
