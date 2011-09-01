@@ -1,7 +1,7 @@
 --- 
 title: iPad's dominance is about to end?
 category: link
-link: W:http://www.forbes.com/sites/benzingainsights/2011/08/31/heres-why-the-ipads-dominance-is-about-to-end/
+link: http://www.forbes.com/sites/benzingainsights/2011/08/31/heres-why-the-ipads-dominance-is-about-to-end/
 date: 01/09/2011
 timestamp: 2011-09-01 08:55:23.203892 -06:00
 
