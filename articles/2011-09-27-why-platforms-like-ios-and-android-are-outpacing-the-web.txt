@@ -19,3 +19,7 @@ I think this is a huge problem for the web as an "app platform." Apple is the on
 
 Personally, I think this is a very sad and pessimistic outlook for the web. I see things much brighter and have faith that the web will always be a competitive platform for developers. If you've ever used the mobile version of [Basecamp](http://basecamphq.com/mobile "Basecamp mobile") you know there is potential for rich applications based purely on web technologies.
 
+**Update**: Joe wrote a nice (and much more positive) [follow-up post](http://joehewitt.com/post/what-the-web-is-and-is-not/ "Joe's followup"):
+
+> There is, however, one other characteristic that does define the Web, and that is the humble hyperlink. Links are a feature of HTML, but they are not limited to HTML. Links are the connections that give the Web its name, and links are the biggest thing missing from native platforms.
+
