@@ -15,20 +15,7 @@
 					<span class="meta link"><a href="<%= article[:link] || '' %>">
 							<%= article[:link] || '' %></a></span>
 			<% end %>
-		<% end %>
-		<% if article[:category] == 'article' %>
-		<div id='rdbWrapper'></div><script type='text/javascript'>
-		(function() {
-		    var s     = document.getElementsByTagName('script')[0],
-		        rdb   = document.createElement('script');
-		    rdb.type  = 'text/javascript';
-		    rdb.async = true;
-		    rdb.src   = document.location.protocol + '//www.readability.com/embed.js';
-		    s.parentNode.insertBefore(rdb, s);
-		})();
-		</script>
-		<% end %>
-		
+		<% end %>		
   </header>
 
   <section class="content">
