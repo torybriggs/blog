@@ -111,10 +111,25 @@ body > #wrapper > header {
 	width: 310px;
 	float: left;
 }
-#beta {
-	float: right;
-	padding-right: 100px;
+#tthor {
+	position: relative;
+	display: block;
 	border: none;
+	top: -20px;
+}
+#tthor img {
+	float: right;
+	margin-right: 100px;
+	border: none;
+}
+#tthor h3 {
+	position: absolute;
+	top: 132px;
+	right: 60px;
+	width: 180px;
+	font-size: 12px;
+	line-height: 14px;
+	text-align: center;
 }
 body > #wrapper > header > h1 {
   width: 310px;
