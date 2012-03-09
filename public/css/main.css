@@ -62,7 +62,7 @@ header, footer, section, article {
 }
 .meta {
   float: left;
-  line-height: 43px;
+  line-height: 18px;
   margin-right: 30px;
 }
 .meta, .more {
@@ -110,6 +110,11 @@ body > #wrapper > header {
 	display: inline;
 	width: 310px;
 	float: left;
+}
+header:hover a {
+	text-decoration: none;
+	border: 0;
+	text-shadow: 0px 0px 2px #D53245;
 }
 #tthor {
 	position: relative;
@@ -176,9 +181,8 @@ hr {
 	margin-bottom: 0;
 }
 .post {
-	margin-bottom: 50px;
+	margin-bottom: 80px;
 	width: 600px;
-	border-bottom: dashed 1px;
 }
 .post:last-child {
   margin-bottom: 10px;
