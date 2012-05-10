@@ -196,6 +196,9 @@ hr {
   text-align: right;
 	font-size: 11px;
 }
+.post .content img {
+	width: 600px;
+}
 .more a {
 	border: none;
 	text-decoration: none;
