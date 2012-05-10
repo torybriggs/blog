@@ -1,0 +1,16 @@
+--- 
+category: article
+timestamp: 2012-05-10 08:31:43.645330 -06:00
+title: Google+ Version 2.0.0.5888
+date: 10/05/2012
+link: 
+
+Speaking of so-so design, there are many people applauding the [recent update](https://plus.google.com/107117483540235115863/posts/PgLXVFMo9J2 "Google+ update 2.0.0.588") to the iOS Google+ app. In my opinion this is a step forward when compared to the admittedly lackluster design of previous versions. But as they say, design is in the details and the latest update is still lipstick-on-a-pig.
+
+The stream view is very well done and I am a fan of the nice transitions between posts as you scroll. However, you start to notice obvious visual design flaws as you dig into different parts of the app:
+
+<img src="/images/articles/google_plus_webview_bottom_bar.png" alt="pixelated mess" />
+
+The pixelated icons in the navigation bar are hideous and they look terrible on a Retina display.
+
+I know these updates are iterative, but how can so much effort be put into some parts of the app while neglecting such obvious mistakes? This update does a lot of things right but there is still a long way to go.
