@@ -9,7 +9,7 @@ Speaking of so-so design, there are many people applauding the [recent update](h
 
 The stream view is very well done and I am a fan of the nice transitions between posts as you scroll. However, you start to notice obvious visual design flaws as you dig into different parts of the app:
 
-<img src="/images/articles/google_plus_webview_bottom_bar.png" alt="pixelated mess" />
+<img src="https://s3.amazonaws.com/torybriggs.com_assets/images/google_plus_webview_bottom_bar.png" alt="pixelated mess" />
 
 The pixelated icons in the navigation bar are hideous and they look terrible on a Retina display.
 
