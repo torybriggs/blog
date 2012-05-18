@@ -18,17 +18,17 @@ toto = Toto::Server.new do
   # set [:setting], [value]
   # 
     set :author,    "Tory Briggs"                             # blog author
-    set :title,     "torybriggs.com the web, curated."			  # site title
+    set :title,     "torybriggs.com"                  			  # site title
   # set :root,      "index"                                   # page to load on /
   # set :date,      lambda {|now| now.strftime("%d/%m/%Y") }  # date format for articles
-  # set :markdown,  :smart                                    # use markdown + smart-mode
+    set :markdown,  :smart                                    # use markdown + smart-mode
   # set :disqus,    false                                     # disqus id, or false
     set :summary,   :max => 10000, :delim => /~/              # length of article summary and delimiter
-  # set :ext,       'txt'                                     # file extension for articles
+    set :ext,       'md'                                      # file extension for articles
   # set :cache,      28800                                    # cache duration, in seconds
 		set :url,				'http://torybriggs.com/'
 
-  set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
+    set :date, lambda {|now| now.strftime("%B #{now.day.ordinal} %Y") }
 end
 
 # Redirect www to non-www
