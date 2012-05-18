@@ -1,9 +1,0 @@
---- 
-timestamp: 2012-05-11 08:29:43.112143 -06:00
-title: 35,000 in 2 Days
-link: http://www.theverge.com/gaming/2012/5/10/3013113/portal-2-perpetual-testing
-date: 11/05/2012
-category: link
-
-Valve might be on to something with the [Steam Workshop](http://steamcommunity.com/workshop/ "Steam Workshop").
-

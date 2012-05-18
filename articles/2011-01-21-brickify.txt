@@ -1,9 +1,0 @@
---- 
-title: Brickify
-category: link
-link: http://brickify.com/
-date: 21/01/2011
-timestamp: 2011-01-21 08:10:00.634850 -07:00
-
-A service from the [Carsonified](http://www.carsonified.com/) team that transforms any uploaded graphic/image into blocks. Imagine your designs being built with legos, that's basically what the service accomplishes.  You can take a look at the source over on [Github](https://github.com/carsonified/brickify)
-

@@ -1,8 +1,0 @@
---- 
-category: link
-timestamp: 2012-05-10 08:10:07.364074 -06:00
-title: Octicons
-date: 10/05/2012
-link: https://github.com/blog/1135-the-making-of-octicons
-
-Speaking of good design, GitHub made a font. It looks great on a Retina display.

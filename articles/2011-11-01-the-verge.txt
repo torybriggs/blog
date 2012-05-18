@@ -1,9 +1,0 @@
---- 
-title: The Verge
-category: link
-link: http://www.theverge.com/2011/11/1/2528367/welcome-to-the-verge
-date: 01/11/2011
-timestamp: 2011-11-01 07:23:58.219639 -06:00
-
-The latest project from Joshua Topolsky and company has finally been launched. I was even able to log-in with my existing SB Nation account.
-
