@@ -13,5 +13,7 @@ The future is here, deal with it.
 
 (To make things even easier, you can [download the epub directly](http://readlists.com/502966cc/download/epub "Anil Dash'es best work, straight to your hardrive"), courtesy of Readlists)
 
-**Awesome Update**: Things have just gotten better. [You can now buy the Anil Dash experience from me for $3](http://gum.co/LloI "Anil Dash Experience") (undercutting Anil's own book price by $1 I think). To be clear, I'm doing this with [Anil's consent](https://twitter.com/anildash/status/206065239417028608).
+**Awesome Update**: Things have just gotten better. <strike>[You can now buy the Anil Dash experience from me for $3](# "Anil Dash Experience")</strike> (undercutting Anil's own book price by $1 I think). To be clear, I'm doing this with [Anil's consent](https://twitter.com/anildash/status/206065239417028608).
+
+**Awesome Update 2**: Please don't buy my Anil Dash ebook. I'm trying to take a questionable service to the logical extreme. Although Mr. Dash has commended me for making this readlist, I'm quite sure I wouldn't get the same response from a publisher who isn't also an advisor to the company. The sarcasm of this post seems to be lost on the Arc90 folks.
 
